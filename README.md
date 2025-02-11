@@ -3,7 +3,7 @@
   </h3>
   </br>
   <h2 align="center">
-      I'm a Software Developer 👨‍💻, aspiring Blockchain Developer 😊.
+      I'm a Software Developer 👨‍💻.
   </h2>
 
   <p>
@@ -12,8 +12,8 @@
 
 ## 🌱 Currently learning;
 
-- **React**
-- **Solidity**
+- **Next.JS**
+- **Node.JS**
 
 ## Let's connect:
 
